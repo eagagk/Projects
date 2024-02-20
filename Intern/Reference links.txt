@@ -1,0 +1,7 @@
+1. https://www.linkedin.com/pulse/predicting-next-steps-customers-journey-using-deep-danny-portman-phd/
+2. http://digital-thinking.de/deep-learning-clickstream-based-user-intent-prediction-with-anns/
+3. https://www.pythonpool.com/viterbi-algorithm-python/
+4. https://www.latentview.com/blog/markov-chains-what-are-they-and-where-do-they-matter/
+5. https://dreamdata.io/revenue-attribution-models
+6. https://medium.com/machine-learning-for-business-problem/how-to-implement-an-attention-rnn-into-solving-the-multi-channel-attribution-problem-6fa90d935859
+7. https://towardsdatascience.com/marketing-channel-attribution-with-markov-chains-in-python-part-2-the-complete-walkthrough-733c65b23323
